@@ -1,3 +1,3 @@
 <?php
-header('Location: /pettyloan_limit');
+header('Location: /petty/pettyloan_limit');
 ?>
