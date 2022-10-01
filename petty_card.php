@@ -1,3 +1,3 @@
 <?php
-header('Location: https://pay.squadco.com/DTAUJV');
+header('Location: https://paystack.com/pay/6l9l58kwed');
 ?>
