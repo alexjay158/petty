@@ -1,3 +1,3 @@
 <?php
-header('Location: https://flutterwave.com/pay/w3ef0pybjg3x')
+header('Location: https://flutterwave.com/pay/1a6atuvvanyd')
   ?>
